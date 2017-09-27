@@ -54,7 +54,7 @@
 
         System.out.println("The word " + "'" + search + "' appears " + count + " times.");
 
-
+        sc.close();
     } //end main
 
 } //end class
